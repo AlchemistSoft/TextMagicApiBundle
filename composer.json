@@ -2,8 +2,13 @@
   "name": "alchemitsoft/textmagic-api-bundle",
   "type": "symfony-bundle",
   "description": "Bundle Symfony2 para el uso del servicio TextMagic que sirve para enviar SMS a través de sus diferentes implementaciones, en este caso PHP.",
-  "keywords": ["sms", "sms api", "bundle sms"],
+  "keywords": ["TextMagic", "sms", "sms api", "bundle sms"],
   "homepage": "https://www.alchemistsoft.com",
+  "authors": [
+    {
+      "name": "Alchemistsoft",
+      "email": "alchemistsoftve@gmail.com"
+    }
   "license": "MIT",
   "minimum-stability": "dev",
   "require": {
