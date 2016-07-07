@@ -1,0 +1,4 @@
+services:
+    text_magic_api.sender:
+        class: alchemistsoft\TextMagicApiBundle\Classes\TextMagicSender
+        
